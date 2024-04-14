@@ -23,7 +23,8 @@ bash
 
 Copy code
 
-git clone https://github.com/your-username/top-bar-with-search-bar.git
+git clone https://github.com/rajeshchau/top-bar.git
+
 Integrate into Website: Copy the HTML and CSS code for the top bar and search bar from the repository's files and integrate them into your website's codebase.
 
 Customize Styling (Optional): Modify the CSS styles as needed to match your website's branding and design requirements. You can adjust colors, fonts, sizes, and other visual elements to achieve the desired look and feel.
