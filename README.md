@@ -1,19 +1,19 @@
-#Top Bar with User-Friendly Search Bar
+# Top Bar with User-Friendly Search Bar
 
 Welcome to the repository for the Top Bar with User-Friendly Search Bar! This project showcases a sleek and intuitive top bar design with a user-friendly search feature positioned at the center. Built using HTML and CSS, this component enhances website navigation and provides users with a seamless search experience.
 
-#Overview
+# Overview
 
 The Top Bar with User-Friendly Search Bar is designed to improve website usability by offering easy access to essential navigation options and a prominently placed search functionality. This component enhances the overall user experience and contributes to a modern and visually appealing website design.
 
-#Features
+# Features
 
 Top Bar Navigation: The top bar includes navigation links or icons for quick access to important sections or pages of the website.
 Centralized Search Bar: A user-friendly search bar is positioned at the center of the top bar, making it easily noticeable and accessible to users.
 Responsive Design: The top bar and search bar are designed to adapt seamlessly to different screen sizes and devices, ensuring optimal user experience across desktop, tablet, and mobile platforms.
 Customizable Styling: The component's design and styling can be customized to match the branding and aesthetic preferences of any website.
 
-#Usage
+# Usage
 
 To incorporate the Top Bar with User-Friendly Search Bar into your website, follow these steps:
 
